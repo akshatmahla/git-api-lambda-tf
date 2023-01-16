@@ -1,0 +1,5 @@
+template_name = "EnquiryTemplate"
+MAIL_FROM = "akshat.mahla@gmail.com"
+MAIL_TO = "akshat.mahla@gmail.com"
+my_region = "ap-south-1"
+my_account_id = "********"
